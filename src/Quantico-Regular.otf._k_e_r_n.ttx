@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="A" r="T" v="-50"/>
+      <pair l="A" r="V" v="-50"/>
+      <pair l="A" r="W" v="-30"/>
+      <pair l="A" r="Y" v="-60"/>
+      <pair l="A" r="Yacute" v="-60"/>
+      <pair l="A" r="Ydieresis" v="-60"/>
+      <pair l="Aacute" r="T" v="-50"/>
+      <pair l="Aacute" r="V" v="-50"/>
+      <pair l="Aacute" r="W" v="-30"/>
+      <pair l="Aacute" r="Y" v="-60"/>
+      <pair l="Aacute" r="Yacute" v="-60"/>
+      <pair l="Aacute" r="Ydieresis" v="-60"/>
+      <pair l="Acircumflex" r="T" v="-50"/>
+      <pair l="Acircumflex" r="V" v="-50"/>
+      <pair l="Acircumflex" r="W" v="-30"/>
+      <pair l="Acircumflex" r="Y" v="-60"/>
+      <pair l="Acircumflex" r="Yacute" v="-60"/>
+      <pair l="Acircumflex" r="Ydieresis" v="-60"/>
+      <pair l="Adieresis" r="T" v="-50"/>
+      <pair l="Adieresis" r="V" v="-50"/>
+      <pair l="Adieresis" r="W" v="-30"/>
+      <pair l="Adieresis" r="Y" v="-60"/>
+      <pair l="Adieresis" r="Yacute" v="-60"/>
+      <pair l="Adieresis" r="Ydieresis" v="-60"/>
+      <pair l="Agrave" r="T" v="-50"/>
+      <pair l="Agrave" r="V" v="-50"/>
+      <pair l="Agrave" r="W" v="-30"/>
+      <pair l="Agrave" r="Y" v="-60"/>
+      <pair l="Agrave" r="Yacute" v="-60"/>
+      <pair l="Agrave" r="Ydieresis" v="-60"/>
+      <pair l="Aring" r="T" v="-50"/>
+      <pair l="Aring" r="V" v="-50"/>
+      <pair l="Aring" r="W" v="-30"/>
+      <pair l="Aring" r="Y" v="-60"/>
+      <pair l="Aring" r="Yacute" v="-60"/>
+      <pair l="Aring" r="Ydieresis" v="-60"/>
+      <pair l="Atilde" r="T" v="-50"/>
+      <pair l="Atilde" r="V" v="-50"/>
+      <pair l="Atilde" r="W" v="-30"/>
+      <pair l="Atilde" r="Y" v="-60"/>
+      <pair l="Atilde" r="Yacute" v="-60"/>
+      <pair l="Atilde" r="Ydieresis" v="-60"/>
+      <pair l="F" r="J" v="-80"/>
+      <pair l="L" r="T" v="-60"/>
+      <pair l="L" r="V" v="-40"/>
+      <pair l="L" r="W" v="-20"/>
+      <pair l="L" r="Y" v="-40"/>
+      <pair l="L" r="Yacute" v="-40"/>
+      <pair l="L" r="Ydieresis" v="-40"/>
+      <pair l="Ldotaccent" r="T" v="-60"/>
+      <pair l="Ldotaccent" r="V" v="-40"/>
+      <pair l="Ldotaccent" r="W" v="-20"/>
+      <pair l="Ldotaccent" r="Y" v="-40"/>
+      <pair l="Ldotaccent" r="Yacute" v="-40"/>
+      <pair l="Ldotaccent" r="Ydieresis" v="-40"/>
+      <pair l="T" r="A" v="-50"/>
+      <pair l="T" r="Aacute" v="-50"/>
+      <pair l="T" r="Acircumflex" v="-50"/>
+      <pair l="T" r="Adieresis" v="-50"/>
+      <pair l="T" r="Agrave" v="-50"/>
+      <pair l="T" r="Aring" v="-50"/>
+      <pair l="T" r="Atilde" v="-50"/>
+      <pair l="T" r="J" v="-60"/>
+      <pair l="V" r="A" v="-50"/>
+      <pair l="V" r="Aacute" v="-50"/>
+      <pair l="V" r="Acircumflex" v="-50"/>
+      <pair l="V" r="Adieresis" v="-50"/>
+      <pair l="V" r="Agrave" v="-50"/>
+      <pair l="V" r="Aring" v="-50"/>
+      <pair l="V" r="Atilde" v="-50"/>
+      <pair l="W" r="A" v="-30"/>
+      <pair l="W" r="Aacute" v="-30"/>
+      <pair l="W" r="Acircumflex" v="-30"/>
+      <pair l="W" r="Adieresis" v="-30"/>
+      <pair l="W" r="Agrave" v="-30"/>
+      <pair l="W" r="Aring" v="-30"/>
+      <pair l="W" r="Atilde" v="-30"/>
+      <pair l="Y" r="A" v="-60"/>
+      <pair l="Y" r="Aacute" v="-60"/>
+      <pair l="Y" r="Acircumflex" v="-60"/>
+      <pair l="Y" r="Adieresis" v="-60"/>
+      <pair l="Y" r="Agrave" v="-60"/>
+      <pair l="Y" r="Aring" v="-60"/>
+      <pair l="Y" r="Atilde" v="-60"/>
+      <pair l="Y" r="J" v="-80"/>
+      <pair l="Yacute" r="A" v="-60"/>
+      <pair l="Yacute" r="Aacute" v="-60"/>
+      <pair l="Yacute" r="Acircumflex" v="-60"/>
+      <pair l="Yacute" r="Adieresis" v="-60"/>
+      <pair l="Yacute" r="Agrave" v="-60"/>
+      <pair l="Yacute" r="Aring" v="-60"/>
+      <pair l="Yacute" r="Atilde" v="-60"/>
+      <pair l="Yacute" r="J" v="-80"/>
+      <pair l="Ydieresis" r="A" v="-60"/>
+      <pair l="Ydieresis" r="Aacute" v="-60"/>
+      <pair l="Ydieresis" r="Acircumflex" v="-60"/>
+      <pair l="Ydieresis" r="Adieresis" v="-60"/>
+      <pair l="Ydieresis" r="Agrave" v="-60"/>
+      <pair l="Ydieresis" r="Aring" v="-60"/>
+      <pair l="Ydieresis" r="Atilde" v="-60"/>
+      <pair l="Ydieresis" r="J" v="-80"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>

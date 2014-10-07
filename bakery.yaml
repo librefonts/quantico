@@ -1,0 +1,8 @@
+commit: HEAD
+process_files: [Quantico-Regular.ttf.ttx, Quantico-BoldItalic.ttf.ttx, Quantico-Italic.ttf.ttx,
+  Quantico-Bold.ttf.ttx, src/Quantico-Bold.otf.ttx, src/Quantico-Italic.otf.ttx, src/Quantico-BoldItalic.otf.ttx,
+  src/Quantico-Regular.otf.ttx, src/Quantico-Italic-TTF.sfd, src/Quantico-Bold-TTF.sfd,
+  src/Quantico-BoldItalic-TTF.sfd, src/Quantico-Regular-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
